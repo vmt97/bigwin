@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Number_BigWin-export",
+    "texture": "5cc87b13-154d-401d-ba36-7f1237acdbe5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      189,
+      186
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      192,
+      189
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

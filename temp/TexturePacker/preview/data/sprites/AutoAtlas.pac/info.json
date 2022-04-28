@@ -1,0 +1,162 @@
+{
+  "mtimes": {
+    "0dead597-4590-4b78-9a81-9bc45ffae3a0": {
+      "assetMtime": 1651043056418,
+      "metaMtime": 1651043056420
+    },
+    "20c660ba-99b5-4cb3-80de-179075b545b4": {
+      "assetMtime": 1651042359930,
+      "metaMtime": 1651042359964
+    },
+    "9477068f-8d18-4090-bbd5-0a664e677b23": {
+      "assetMtime": 1651042359930,
+      "metaMtime": 1651042359964
+    },
+    "8483c0c4-8102-4fc5-a9b0-01a1585c4d46": {
+      "assetMtime": 1651042950523,
+      "metaMtime": 1651042950581
+    },
+    "14207609-311e-4079-bd53-042db2da8713": {
+      "assetMtime": 1651042950523,
+      "metaMtime": 1651042950581
+    },
+    "91b3fac1-a0aa-472d-8a97-ef248501b0c6": {
+      "assetMtime": 1651042359930,
+      "metaMtime": 1651042359959
+    },
+    "a3ef2e8d-43fa-4e53-976f-5e20f5c145fa": {
+      "assetMtime": 1651042359930,
+      "metaMtime": 1651042359959
+    },
+    "dbb66414-3756-4dca-8ad2-f500906ae951": {
+      "assetMtime": 1651042359930,
+      "metaMtime": 1651042359975
+    },
+    "20bb4bfb-8f55-4013-b30b-57ea310ae3e8": {
+      "assetMtime": 1651042359930,
+      "metaMtime": 1651042359975
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.0",
+    "uuid": "0dead597-4590-4b78-9a81-9bc45ffae3a0",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": false,
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "Text_TLon",
+            "uuid": "20c660ba-99b5-4cb3-80de-179075b545b4",
+            "textureUuid": "9477068f-8d18-4090-bbd5-0a664e677b23",
+            "path": "/Users/fe-minhthao/Documents/cocos/effect/temp/trimImages/spritesheet_js_1651043069412_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 438,
+              "height": 113,
+              "rotatedWidth": 438,
+              "rotatedHeight": 113
+            },
+            "rawWidth": 574,
+            "rawHeight": 143,
+            "width": 444,
+            "height": 119,
+            "originalPath": "/Users/fe-minhthao/Documents/cocos/effect/library/imports/94/9477068f-8d18-4090-bbd5-0a664e677b23.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 444,
+            "rotatedHeight": 119
+          },
+          {
+            "name": "Text_TCLon",
+            "uuid": "dbb66414-3756-4dca-8ad2-f500906ae951",
+            "textureUuid": "20bb4bfb-8f55-4013-b30b-57ea310ae3e8",
+            "path": "/Users/fe-minhthao/Documents/cocos/effect/temp/trimImages/spritesheet_js_1651043069414_image_3.png",
+            "trim": {
+              "x": 3,
+              "y": 122,
+              "width": 555,
+              "height": 124,
+              "rotatedWidth": 555,
+              "rotatedHeight": 124
+            },
+            "rawWidth": 574,
+            "rawHeight": 143,
+            "width": 561,
+            "height": 130,
+            "originalPath": "/Users/fe-minhthao/Documents/cocos/effect/library/imports/20/20bb4bfb-8f55-4013-b30b-57ea310ae3e8.png",
+            "x": 0,
+            "y": 119,
+            "rotatedWidth": 561,
+            "rotatedHeight": 130
+          },
+          {
+            "name": "Text_TSLon",
+            "uuid": "91b3fac1-a0aa-472d-8a97-ef248501b0c6",
+            "textureUuid": "a3ef2e8d-43fa-4e53-976f-5e20f5c145fa",
+            "path": "/Users/fe-minhthao/Documents/cocos/effect/temp/trimImages/spritesheet_js_1651043069414_image_2.png",
+            "trim": {
+              "x": 3,
+              "y": 252,
+              "width": 569,
+              "height": 139,
+              "rotatedWidth": 569,
+              "rotatedHeight": 139
+            },
+            "rawWidth": 574,
+            "rawHeight": 143,
+            "width": 575,
+            "height": 145,
+            "originalPath": "/Users/fe-minhthao/Documents/cocos/effect/library/imports/a3/a3ef2e8d-43fa-4e53-976f-5e20f5c145fa.png",
+            "x": 0,
+            "y": 249,
+            "rotatedWidth": 575,
+            "rotatedHeight": 145
+          }
+        ],
+        "width": 575,
+        "height": 394,
+        "name": "AutoAtlas-1",
+        "imagePath": "/Users/fe-minhthao/Documents/cocos/effect/temp/TexturePacker/preview/data/sprites/AutoAtlas.pac/AutoAtlas-1.png"
+      }
+    ],
+    "unpackedTextures": [
+      {
+        "name": "UI_BigWin",
+        "uuid": "8483c0c4-8102-4fc5-a9b0-01a1585c4d46",
+        "textureUuid": "14207609-311e-4079-bd53-042db2da8713",
+        "path": "/Users/fe-minhthao/Documents/cocos/effect/temp/trimImages/spritesheet_js_1651043069414_image_1.png",
+        "trim": {
+          "x": 0,
+          "y": 0,
+          "width": 1531,
+          "height": 1037,
+          "rotatedWidth": 1531,
+          "rotatedHeight": 1037
+        },
+        "rawWidth": 1531,
+        "rawHeight": 1037,
+        "width": 1537,
+        "height": 1043,
+        "originalPath": "/Users/fe-minhthao/Documents/cocos/effect/library/imports/14/14207609-311e-4079-bd53-042db2da8713.png"
+      }
+    ]
+  }
+}

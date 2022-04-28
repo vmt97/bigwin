@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_TLon",
+    "texture": "9477068f-8d18-4090-bbd5-0a664e677b23",
+    "atlas": "",
+    "rect": [
+      69,
+      10,
+      438,
+      113
+    ],
+    "offset": [
+      1,
+      5
+    ],
+    "originalSize": [
+      574,
+      143
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

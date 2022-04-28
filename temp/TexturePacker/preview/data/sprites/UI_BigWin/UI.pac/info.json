@@ -1,0 +1,60 @@
+{
+  "mtimes": {
+    "c0bf2e2c-e117-4579-8938-84acdc4bff23": {
+      "assetMtime": 1651043938525,
+      "metaMtime": 1651043947301
+    },
+    "be964e5e-748d-4ca6-b821-fed501bdb855": {
+      "assetMtime": 1651042950523,
+      "metaMtime": 1651043559037
+    },
+    "14207609-311e-4079-bd53-042db2da8713": {
+      "assetMtime": 1651042950523,
+      "metaMtime": 1651043559037
+    }
+  },
+  "result": {
+    "name": "UI",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.0",
+    "uuid": "c0bf2e2c-e117-4579-8938-84acdc4bff23",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": false,
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [],
+    "unpackedTextures": [
+      {
+        "name": "UI_BigWin",
+        "uuid": "be964e5e-748d-4ca6-b821-fed501bdb855",
+        "textureUuid": "14207609-311e-4079-bd53-042db2da8713",
+        "path": "/Users/fe-minhthao/Documents/cocos/effect/temp/trimImages/spritesheet_js_1651043956920_image_0.png",
+        "trim": {
+          "x": 0,
+          "y": 0,
+          "width": 1531,
+          "height": 1037,
+          "rotatedWidth": 1531,
+          "rotatedHeight": 1037
+        },
+        "rawWidth": 1531,
+        "rawHeight": 1037,
+        "width": 1537,
+        "height": 1043,
+        "originalPath": "/Users/fe-minhthao/Documents/cocos/effect/library/imports/14/14207609-311e-4079-bd53-042db2da8713.png"
+      }
+    ]
+  }
+}

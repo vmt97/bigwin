@@ -1,0 +1,88 @@
+2022-04-27T15:31:06.235Z - normal: Load ~/.CocosCreator/settings.json
+2022-04-27T15:31:06.287Z - normal: Initializing Asset Database
+2022-04-27T15:31:06.289Z - normal: checking language setting...
+2022-04-27T15:31:06.289Z - normal: Language: en
+2022-04-27T15:31:06.990Z - success: preview server running at http://localhost:7456
+2022-04-27T15:31:06.999Z - success: protocol editor-framework registered
+2022-04-27T15:31:06.999Z - success: protocol app registered
+2022-04-27T15:31:06.999Z - success: protocol theme registered
+2022-04-27T15:31:06.999Z - success: protocol packages registered
+2022-04-27T15:31:06.999Z - success: protocol uuid registerred
+2022-04-27T15:31:06.999Z - success: protocol db registerred
+2022-04-27T15:31:06.999Z - success: protocol thumbnail registerred
+2022-04-27T15:31:06.999Z - success: protocol unpack registerred
+2022-04-27T15:31:07.000Z - success: protocol disable-commonjs registerred
+2022-04-27T15:31:09.991Z - normal: failed to connect login server due to request timeout
+2022-04-27T15:31:09.992Z - normal: Check project /Users/fe-minhthao/Documents/cocos/effect
+2022-04-27T15:31:09.994Z - normal: Initializing project /Users/fe-minhthao/Documents/cocos/effect
+2022-04-27T15:31:10.347Z - normal: Initializing Cocos2d
+2022-04-27T15:31:10.969Z - normal: Initializing engine extends
+2022-04-27T15:31:10.999Z - success: alipay-adapter loaded
+2022-04-27T15:31:11.006Z - success: asset-db-debugger loaded
+2022-04-27T15:31:11.010Z - success: baidu-adapter loaded
+2022-04-27T15:31:11.016Z - success: color-picker loaded
+2022-04-27T15:31:11.163Z - success: fb-audience-network loaded
+2022-04-27T15:31:11.210Z - success: fb-live-stream loaded
+2022-04-27T15:31:11.213Z - success: google-play-instant loaded
+2022-04-27T15:31:11.217Z - success: huawei-runtime loaded
+2022-04-27T15:31:11.437Z - success: cpk-publish loaded
+2022-04-27T15:31:11.445Z - success: jsb-adapter loaded
+2022-04-27T15:31:11.451Z - success: oppo-runtime loaded
+2022-04-27T15:31:11.456Z - success: package-manager loaded
+2022-04-27T15:31:11.568Z - success: qqplay-adapter loaded
+2022-04-27T15:31:11.571Z - success: runtime-dev-tools loaded
+2022-04-27T15:31:11.575Z - success: sdkbox loaded
+2022-04-27T15:31:11.579Z - success: tester loaded
+2022-04-27T15:31:11.581Z - success: ui-kit-preview-extra loaded
+2022-04-27T15:31:11.585Z - success: ui-kit-preview loaded
+2022-04-27T15:31:11.587Z - success: ui-kit loaded
+2022-04-27T15:31:11.592Z - success: vivo-runtime loaded
+2022-04-27T15:31:11.592Z - success: weapp-adapter loaded
+2022-04-27T15:31:11.593Z - success: xiaomi-adapter loaded
+2022-04-27T15:31:11.596Z - success: alipay-minigame loaded
+2022-04-27T15:31:11.629Z - success: assets loaded
+2022-04-27T15:31:11.631Z - success: builder loaded
+2022-04-27T15:31:11.890Z - success: cocos-services loaded
+2022-04-27T15:31:11.895Z - success: console loaded
+2022-04-27T15:31:11.920Z - success: fb-instant-games loaded
+2022-04-27T15:31:11.923Z - success: game-window loaded
+2022-04-27T15:31:11.924Z - success: google-instant-games loaded
+2022-04-27T15:31:11.928Z - success: hierarchy loaded
+2022-04-27T15:31:11.932Z - success: inspector loaded
+2022-04-27T15:31:11.934Z - success: keystore loaded
+2022-04-27T15:31:11.939Z - success: node-library loaded
+2022-04-27T15:31:11.941Z - success: package-asset loaded
+2022-04-27T15:31:11.942Z - success: preferences loaded
+2022-04-27T15:31:11.946Z - success: project-exporter loaded
+2022-04-27T15:31:11.950Z - success: project-importer loaded
+2022-04-27T15:31:11.955Z - success: project-settings loaded
+2022-04-27T15:31:11.960Z - success: scene loaded
+2022-04-27T15:31:11.961Z - success: simulator-debugger loaded
+2022-04-27T15:31:11.962Z - success: sprite-editor loaded
+2022-04-27T15:31:11.966Z - success: store loaded
+2022-04-27T15:31:11.975Z - success: timeline loaded
+2022-04-27T15:31:11.979Z - success: xiaomi-runtime loaded
+2022-04-27T15:31:14.184Z - info: Cocos Services load base data!
+2022-04-27T15:31:15.749Z - normal: Loading packages
+2022-04-27T15:31:15.753Z - normal: Watching packages
+2022-04-27T15:31:15.825Z - normal: Run Application
+2022-04-28T03:13:31.305Z - warn: Custom should not be false if file is not specified.
+2022-04-28T03:15:39.033Z - warn: Custom should not be false if file is not specified.
+2022-04-28T03:58:18.458Z - error: TypeError: Cannot read property 'node' of null
+    at initializer.parent (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/svg.js/dist/svg.js:1156:19)
+    at HTMLImageElement.img.onload (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/svg.js/dist/svg.js:3508:22)
+2022-04-28T03:58:40.876Z - error: TypeError: Cannot read property 'node' of null
+    at initializer.parent (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/svg.js/dist/svg.js:1156:19)
+    at HTMLImageElement.img.onload (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/svg.js/dist/svg.js:3508:22)
+2022-04-28T04:38:30.468Z - error: TypeError: Cannot read property 'node' of null
+    at initializer.parent (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/svg.js/dist/svg.js:1156:19)
+    at HTMLImageElement.img.onload (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/svg.js/dist/svg.js:3508:22)
+2022-04-28T04:39:28.247Z - warn: Can not indicate the 'type' attribute for "BigWinController.winParticle", which its default value is type of number.
+2022-04-28T04:39:58.017Z - warn: Can not indicate the 'type' attribute for "BigWinController.winParticle", which its default value is type of number.
+2022-04-28T06:32:27.940Z - error: TypeError: Cannot read property 'node' of null
+    at initializer.parent (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/svg.js/dist/svg.js:1156:19)
+    at HTMLImageElement.img.onload (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/svg.js/dist/svg.js:3508:22)
+2022-04-28T07:42:53.985Z - warn: The 'type' attribute of 'BigWinEffect.bigWinPopup' is undefined when loading script
+2022-04-28T08:00:36.087Z - error: TypeError: Cannot read property 'node' of null
+    at initializer.parent (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/svg.js/dist/svg.js:1156:19)
+    at HTMLImageElement.img.onload (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/svg.js/dist/svg.js:3508:22)
